@@ -1,2 +1,2 @@
 # DevCopado
-Created a demo for copado
+Created a demo for Copado
